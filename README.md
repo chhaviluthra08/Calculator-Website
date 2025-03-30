@@ -15,4 +15,3 @@ This is a **simple and interactive calculator website** built using **HTML, CSS,
 - **CSS3:** Styling for buttons, display, and layout.  
 - **JavaScript:** Logic for performing and displaying calculations.
 
-✅ This calculator website is perfect for practicing **JavaScript DOM manipulation** and **event handling** skills. Let me know if you need additional features or modifications! 🚀
